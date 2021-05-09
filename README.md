@@ -32,12 +32,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/71574354/117586359-4f528080-b0dd-11eb-9b18-e79b30302054.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ## Features
 

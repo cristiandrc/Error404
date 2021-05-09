@@ -23,13 +23,14 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](![pages](https://user-images.githubusercontent.com/71574354/117586359-4f528080-b0dd-11eb-9b18-e79b30302054.png))
+![screenshot](https://user-images.githubusercontent.com/71574354/117586359-4f528080-b0dd-11eb-9b18-e79b30302054.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -47,5 +48,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/cristiandrc)
-- Twitter [@your-twitter](https://twitter.com/rojas_d3)
+- GitHub [@cristiandrc](https://github.com/cristiandrc)
+- Twitter [@rojas_d3](https://twitter.com/rojas_d3)
